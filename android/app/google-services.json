@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980575193306",
+    "project_id": "worldconnect-5eadd",
+    "storage_bucket": "worldconnect-5eadd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980575193306:android:2fc47ea4f7c5bfb5d47de3",
+        "android_client_info": {
+          "package_name": "com.example.worldconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0TNL0yYM2KIt7P9Py9Ee3N1sk33yCQZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
