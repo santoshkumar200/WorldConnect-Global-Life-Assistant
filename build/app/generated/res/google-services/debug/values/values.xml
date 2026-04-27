@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">980575193306</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0TNL0yYM2KIt7P9Py9Ee3N1sk33yCQZU</string>
+    <string name="google_app_id" translatable="false">1:980575193306:android:2fc47ea4f7c5bfb5d47de3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0TNL0yYM2KIt7P9Py9Ee3N1sk33yCQZU</string>
+    <string name="google_storage_bucket" translatable="false">worldconnect-5eadd.firebasestorage.app</string>
+    <string name="project_id" translatable="false">worldconnect-5eadd</string>
+</resources>
